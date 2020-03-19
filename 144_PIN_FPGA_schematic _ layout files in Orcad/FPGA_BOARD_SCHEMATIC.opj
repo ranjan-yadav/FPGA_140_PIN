@@ -1,0 +1,147 @@
+(ExpressProject "FPGA_BOARD_SCHEMATIC"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\fpga_board_schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CAPACITOR_1uF
+      (FullPartName "CAPACITOR_1uF.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (G
+      (FullPartName "G.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VARIVABLE_RESISTOR_10Kohm
+      (FullPartName "VARIVABLE_RESISTOR_10Kohm.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_5OHM
+      (FullPartName "RESISTOR_5OHM.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_2OHM
+      (FullPartName "RESISTOR_2OHM.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR_4.7u_H
+      (FullPartName "INDUCTOR_4.7u_H.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_10uF
+      (FullPartName "CAPACITOR_10uF.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_TPS65133
+      (FullPartName "CAPACITOR_TPS65133.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (3.3_CONVERTER_LTC1754_3.3
+      (FullPartName "3.3_CONVERTER_LTC1754_3.3.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BERG
+      (FullPartName "BERG.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (USB_TYPE_B
+      (FullPartName "USB_TYPE_B.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (USB_DRIVER_MCP2221
+      (FullPartName "USB_DRIVER_MCP2221.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (USB_TYPE_A
+      (FullPartName "USB_TYPE_A.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_1KOHM
+      (FullPartName "RESISTOR_1KOHM.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VGA
+      (FullPartName "VGA.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (VGA_DRIVER_MAX14984
+      (FullPartName "VGA_DRIVER_MAX14984.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (ADC_LTC1420
+      (FullPartName "ADC_LTC1420.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (DAC_LTC1666
+      (FullPartName "DAC_LTC1666.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL_OSCILLATOR
+      (FullPartName "CRYSTAL_OSCILLATOR.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR_0.1uF
+      (FullPartName "CAPACITOR_0.1uF.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_10Kohm
+      (FullPartName "RESISTOR_10Kohm.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SWITCH
+      (FullPartName "SWITCH.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (KEY_BOARD_DRIVER_MM74C922
+      (FullPartName "KEY_BOARD_DRIVER_MM74C922.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_52.3ohm
+      (FullPartName "RESISTOR_52.3ohm.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR_2Kohm
+      (FullPartName "RESISTOR_2Kohm.Normal")
+      (LibraryName "F:\SEM-5\FPGA\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "F:\SEM-5\FPGA")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "E:\SEM 5\PCB\project_fpga_30_nov_2019\120_PIN_FPGA\fpga_board_schematic.dsn")
+      (Path "Design Resources"
+         "E:\SEM 5\PCB\project_fpga_30_nov_2019\120_PIN_FPGA\fpga_board_schematic.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "E:\SEM 5\PCB\project_fpga_30_nov_2019\120_PIN_FPGA\library1.olb")
+      (Select "Design Resources"
+         "E:\SEM 5\PCB\project_fpga_30_nov_2019\120_PIN_FPGA\fpga_board_schematic.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 199 690 -8 -31 0 452 0 724"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1350 52 542")
+        (Scroll "261 107")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "E:\SEM 5\PCB\PROJECT_FPGA_30_NOV_2019\120_PIN_FPGA\FPGA_BOARD_SCHEMATIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
